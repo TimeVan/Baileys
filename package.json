@@ -1,5 +1,5 @@
 {
-  "name": "@TimeVan/Timebaileys",
+  "name": "@TimeVan/Baileys",
   "version": "8.0.7",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
@@ -12,13 +12,13 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/skyzopedia/Baileys",
+  "homepage": "https://github.com/TimeVan/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/skyzopedia/Baileys.git"
+    "url": "git+ssh://git@github.com/TimeVan/Baileys.git"
   },
   "license": "MIT",
-  "author": "Skyzopedia",
+  "author": "TimeVanAshVyr",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -97,6 +97,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/skyzopedia/Baileys/issues"
+    "url": "https://github.com/TimeVan/Baileys/issues"
   }
 }
